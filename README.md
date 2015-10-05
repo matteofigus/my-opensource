@@ -9,7 +9,7 @@ If you agree with me, star this, if you don't, submit a PR. Thanks.
 MIT for software, CC for text.
 
 # What to Opensource?
-Anything.
+Everything.
 
 # What to do before opening a repo?
 
